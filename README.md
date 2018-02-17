@@ -1,6 +1,8 @@
 # Zench
 
 又一个Linux VPS测评脚本
+Forked from FunctionClub/ZBench
+Result upload module removed.
 
 ## 说明
 
@@ -14,11 +16,11 @@
 
 中文版：
 
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/ZBench/master/ZBench-CN.sh && bash ZBench-CN.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/jisuwugui/ZBench/master/ZBench-CN.sh && bash ZBench-CN.sh
     
 英文版：
 
-    wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/ZBench/master/ZBench.sh && bash ZBench.sh
+    wget -N --no-check-certificate https://raw.githubusercontent.com/jisuwugui/ZBench/master/ZBench.sh && bash ZBench.sh
     
 ## 效果图
 
